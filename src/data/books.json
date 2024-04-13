@@ -1,0 +1,173 @@
+[ 
+  {
+    "id": "10210.Jane_Eyre",
+    "title": "Jane Eyre",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311l/10210._SY475_.jpg",
+    "rating": "4.12",
+    "genre": [
+      "classics",
+      "fiction",
+      "romance",
+      "historical",
+      "historical-fiction",
+      "literature",
+      "gothic",
+      "historical",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "academic",
+      "school"
+    ],
+    "price": "19.57",
+    "authorName": "Charlotte Brontë",
+    "authorId": "1036615.Charlotte_Bront_"
+  }, 
+  {
+    "id": "2956.The_Adventures_of_Huckleberry_Finn",
+    "title": "The Adventures of Huckleberry Finn",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879l/2956.jpg",
+    "rating": "3.82",
+    "genre": [
+      "classics",
+      "fiction",
+      "historical",
+      "historical-fiction",
+      "literature",
+      "young-adult"
+    ],
+    "price": "14.00",
+    "description": "A nineteenth-century boy from a Mississippi River town recounts his adventures as he travels down the river with a runaway slave, encountering a family involved in a feud, two scoundrels pretending to be royalty, and Tom Sawyer's aunt who mistakes him for Tom.",
+    "authorName": "Mark Twain",
+    "authorId": "1244.Mark_Twain"
+  },
+  {
+    "id": "2998.The_Secret_Garden",
+    "title": "The Secret Garden",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635l/2998.jpg",
+    "rating": "4.13",
+    "genre": ["classics", "fiction", "childrens", "young-adult"],
+    "price": "17.79",
+    "description": "\"One of the most delightful and enduring classics of children's literature, The Secret Garden by Victorian author Frances Hodgson Burnett has remained a firm favorite with children the world over ever since it made its first appearance. Initially published as a serial story in 1910 in The American Magazine, it was brought out in novel form in 1911. ",
+    "authorName": "Frances Hodgson Burnett",
+    "authorId": "2041.Frances_Hodgson_Burnett"
+  },
+{
+  "id": "19543.Where_the_Wild_Things_Are",
+  "title": "Where the Wild Things Are",
+  "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560l/19543.jpg",
+  "rating": "4.22",
+  "genre": [
+    "childrens",
+    "childrens",
+    "picture-books",
+    "fiction",
+    "classics",
+    "fantasy",
+    "adventure",
+    "young-adult",
+    "animals",
+    "kids",
+    "folklore",
+    "monsters"
+  ],
+  "price": "15.38",
+  "authorName": "Maurice Sendak",
+  "authorId": "4489.Maurice_Sendak"
+},
+  {
+    "id": "2657.To_Kill_a_Mockingbird",
+    "title": "To Kill a Mockingbird",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657.jpg",
+    "rating": "4.27",
+    "genre": [
+      "classics",
+      "fiction",
+      "historical",
+      "historical-fiction",
+      "academic",
+      "school"
+    ],
+    "price": "14.47",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+    "authorName": "Harper Lee",
+    "authorId": "1825.Harper_Lee"
+  },
+  {
+    "id": "7624.Lord_of_the_Flies",
+    "title": "Lord of the Flies",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624.jpg",
+    "rating": "3.68",
+    "genre": ["classics", "fiction", "young-adult", "academic", "school"],
+    "price": "17.60",
+    "description": "At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate; this far from civilization the boys can do anything they want. Anything. They attempt to forge their own society, failing, however, in the face of terror, sin and evil. And as order",
+    "authorName": "William Golding",
+    "authorId": "306.William_Golding"
+  },
+  {
+    "id": "19063.The_Book_Thief",
+    "title": "The Book Thief",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY475_.jpg",
+    "rating": "4.37",
+    "genre": ["historical", "historical-fiction", "fiction", "young-adult"],
+    "price": "14.87",
+    "description": "It is 1939. Nazi Germany. The country is holding its breath. Death has never been busier, and will be busier still.",
+    "authorName": "Markus Zusak",
+    "authorId": "11466.Markus_Zusak"
+  },
+  {
+    "id": "5297.The_Picture_of_Dorian_Gray",
+    "title": "The Picture of Dorian Gray",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297.jpg",
+    "rating": "4.08",
+    "genre": [
+      "classics",
+      "fiction",
+      "horror",
+      "fantasy",
+      "literature",
+      "gothic",
+      "novels",
+      "literature",
+      "19th-century",
+      "classics",
+      "classic-literature",
+      "lgbt"
+    ],
+    "price": "13.15",
+    "description": "Written in his distinctively dazzling manner, Oscar Wilde’s story of a fashionable young man who sells his soul for eternal youth and beauty is the author’s most popular work. The tale of Dorian Gray’s moral disintegration caused a scandal when it ﬁrst appeared in 1890, but though Wilde was attacked for the novel’s corrupting inﬂuence, he responded that there is, in fact,",
+    "authorName": "Oscar Wilde",
+    "authorId": "3565.Oscar_Wilde"
+  },
+  {
+    "id": "5129.Brave_New_World",
+    "title": "Brave New World",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY475_.jpg",
+    "rating": "3.99",
+    "genre": [
+      "classics",
+      "fiction",
+      "science-fiction",
+      "science-fiction",
+      "dystopia"
+    ],
+    "price": "13.62",
+    "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Largely set in a futuristic World State, inhabited by genetically modified citizens and an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical",
+    "authorName": "Aldous Huxley",
+    "authorId": "3487.Aldous_Huxley"
+  },
+  {
+    "id": "30.J_R_R_Tolkien_4_Book_Boxed_Set",
+    "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+    "coverImageSrc": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346072396l/30.jpg",
+    "rating": "4.59",
+    "genre": ["fantasy", "fiction", "classics"],
+    "price": "18.72",
+    "description": "This four-volume, boxed set contains J.R.R. Tolkien's epic masterworks The Hobbit and the three volumes of The Lord of the Rings (The Fellowship of the Ring, The Two Towers, and The Return of the King).",
+    "authorName": "J.R.R. Tolkien",
+    "authorId": "656983.J_R_R_Tolkien"
+  }
+  
+
+]
